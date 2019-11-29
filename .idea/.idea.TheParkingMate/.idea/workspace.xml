@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2aaffc05-bd73-47d8-84e6-014aa5193824" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/497E7C03-5433-4AE6-B257-9B219192BCF0/53/f0861e5f/Assert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/Application.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate.Tests/ParkingBayLogicTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/BusinessLogic/ParkingService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/BusinessLogic/IParkingService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2FAD6ED0-0478-4647-B955-5CB639266F73/6B/ResolveOperation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2FAD6ED0-0478-4647-B955-5CB639266F73/8B/ConstructorParameterBinding.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/DAL/Models/BaySize.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/DAL/DTOs/ParkingBayDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/DAL/Models/ParkingBay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/DAL/Models/ParkingLot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/DAL/DTOs/ParkingLotDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/Configuration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/DAL/Repositories/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/DAL/Repositories/ParkingBayMemoryRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/DAL/Repositories/ParkingLotMemoryRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/DAL/Repositories/IParkingBayRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/DAL/Repositories/IParkingLotRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/DAL/Models/DbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/BusinessLogic/ParkingBayLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TheParkingMate/BusinessLogic/IParkingBayLogic.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TheParkingMate/Interfaces/IVehicle.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/Implementations/Vehicle.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/Interfaces/IParkingLot.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/Interfaces/IParkingSpot.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/Implementations/ParkingTicketService.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/Interfaces/IParkingTicketService.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/Implementations/ParkingLot.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/Implementations/SmallVehicle.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/Implementations/ParkingSpot.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/Interfaces/IParkingTicket.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/Implementations/ParkingTicket.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/IParkingService.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/DAL/Models/BaySize.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/ParkingLot.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/DAL/Repositories/ParkingBayRepository.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/DAL/Repositories/IParkingBayRepository.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/DAL/Repositories/IParkingLotRepository.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/DAL/Repositories/ParkingLotMemoryRepository.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/DAL/Repositories/IRepository.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/ParkingService.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/ParkingLotzfd.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/WhereEverythingBegins.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate.Tests/Tests.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate.Tests/ParkingBayLogicTests.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/DAL/Models/ParkingLot.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/Application.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/BusinessLogic/IParkingService.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/BusinessLogic/IParkingBayLogic.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/BusinessLogic/ParkingBayLogic.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/DAL/Repositories/ParkingBayMemoryRepository.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/DAL/Models/DbContext.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/BusinessLogic/ParkingService.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/DAL/Models/ParkingBay.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/DAL/DTOs/ParkingBayDTO.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/DAL/DTOs/ParkingLotDTO.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/Configuration.cs" />
+        <option value="$PROJECT_DIR$/TheParkingMate/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Tr6XLMW1fecaYrLRHSLdDnFJZ1" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Config" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="RiderDotCoverHighlightingPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TheParkingMate/bin/Debug/TheParkingMate.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TheParkingMate/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TheParkingMate/TheParkingMate.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2aaffc05-bd73-47d8-84e6-014aa5193824" name="Default Changelist" comment="" />
+      <created>1574205909482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574205909482</updated>
+      <workItem from="1574205920249" duration="33109000" />
+      <workItem from="1575015520352" duration="487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="150" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="119" />
+    <coverage-tree-state>
+      <expand>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="2" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+      </expand>
+      <select />
+    </coverage-tree-state>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
